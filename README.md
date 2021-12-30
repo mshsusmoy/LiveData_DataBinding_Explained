@@ -1,2 +1,2 @@
 # LiveData_DataBinding_Explained
-Implementation of LiveData &amp; DataBinding using Java
+Implementation of DataBinding , ViewModel  &amp; LiveData using Java
